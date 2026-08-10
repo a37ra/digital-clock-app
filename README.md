@@ -30,7 +30,7 @@ make
 ```
 ./clock
 ```
-
+        
 ## Часовые пояса
 - UTC (London)
 - EST (New York)
